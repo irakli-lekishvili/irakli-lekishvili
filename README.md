@@ -9,8 +9,7 @@ Full-stack engineer specializing in early-stage startups. TypeScript, React, Nod
 
 **Side projects:** 
 
-[Rillow](https://rillow.ai.app) - AI-powered keyword research SaaS — built complete product with
-domain analysis, AI strategy chat, and content brief generation.
+[Rillow](https://rillow.ai.app) - AI-powered keyword research SaaS.
 
 [SEO Checklist](https://seo-checklist.app) - 1,500+ organic users in few days
 
