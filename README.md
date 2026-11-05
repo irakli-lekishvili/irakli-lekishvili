@@ -5,7 +5,8 @@ Full-stack engineer specializing in early-stage startups. TypeScript, React, Nod
 **Pattern:** First/early engineer at successful startups
 - First eng hire at YC-backed Shogun (now leading Shopify page builder)
 - Employee #4 at Operoo through acquisition by SchoolStatus
-- Currently: Senior Fullstack engineer at TurbaMedia.ai (multiple $M+ annual ad spend)
+- Senior Fullstack engineer at TurbaMedia.ai (multiple $M+ annual ad spend)
+- Currently: Co-founder & CTO at [Holtt](https://holtt.com)
 
 **Side projects:** 
 
