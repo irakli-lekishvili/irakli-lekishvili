@@ -9,6 +9,5 @@ Co-founder & CTO at [Holtt](https://holtt.com), all-in-one AI software for home 
 
 **Side projects:**
 - [Rillow](https://rillow.ai) - AI SEO agent for Claude Code, Codex and claude.ai
-- [SEO Checklist](https://seo-checklist.app) - 1,500+ organic users in a few days
 
 📫 l3kishvili@gmail.com
