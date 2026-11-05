@@ -1,17 +1,14 @@
 # Irakli Lekishvili
 
-Full-stack engineer specializing in early-stage startups. TypeScript, React, Node.js.
+Co-founder & CTO at [Holtt](https://holtt.com), all-in-one AI software for home service companies. TypeScript, React, Node.js.
 
-**Pattern:** First/early engineer at successful startups
-- First eng hire at YC-backed Shogun (now leading Shopify page builder)
-- Employee #4 at Operoo through acquisition by SchoolStatus
-- Senior Fullstack engineer at TurbaMedia.ai (multiple $M+ annual ad spend)
-- Currently: Co-founder & CTO at [Holtt](https://holtt.com)
+**Before Holtt:**
+- First eng hire at YC-backed Shogun (now the leading Shopify page builder)
+- Employee #4 at Operoo through its acquisition by SchoolStatus
+- Senior full-stack engineer at TurbaMedia.ai (multiple $M+ annual ad spend)
 
-**Side projects:** 
-
-[Rillow](https://rillow.ai.app) - AI-powered keyword research SaaS.
-
-[SEO Checklist](https://seo-checklist.app) - 1,500+ organic users in few days
+**Side projects:**
+- [Rillow](https://rillow.ai) - AI SEO agent for Claude Code, Codex and claude.ai
+- [SEO Checklist](https://seo-checklist.app) - 1,500+ organic users in a few days
 
 📫 l3kishvili@gmail.com
